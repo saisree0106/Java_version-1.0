@@ -8,6 +8,7 @@ class EvenOdd {
             System.out.println("Even number");
         } else {
             System.out.println("Odd number");
+            System.out.println(num);
         }
     }
 }
